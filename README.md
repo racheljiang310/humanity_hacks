@@ -5,6 +5,7 @@
 ## Our Solution: Corporate Givers
 
 # Link to Website: http://jatinkumar4654.pythonanywhere.com/#
+##Link to Github: https://github.com/JatinKumar001/Humanity_hack.github.io
 
 
 Mission: Explore the Opportunity, Be Limitless
